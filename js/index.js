@@ -5,3 +5,4 @@ console.log('fe_3');
 console.log('fe_5');
 console.log('fe_4');
 
+console.log('fe_6');
